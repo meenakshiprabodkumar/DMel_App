@@ -9,7 +9,7 @@ import plotly.express as px
 from dash import Dash, dcc, html, Output, Input
 import pandas as pd
 
-app = Dash(__name__, title="DMel_App")
+app = Dash(__name__)
 # Declare server for Heroku deployment. Needed for Procfile.
 server = app.server
 

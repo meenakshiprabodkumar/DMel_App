@@ -1,0 +1,295 @@
+,odor,CID,IUPAC,concentration,concentration_type,solvent,species,gender,age,starvation,assay,response,reference,remarks,stage,age in h/d AEL,fig.table,log_conc,starvation_bool
+14,geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",0.004,V/V,water,DMel,F,5.5,0.0,Y-maze,0.67,Schlief2007,,adult,,,-2.0,False
+15,geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",0.01,V/V,water or paraffin oil,DMel,both,5.0,22.5,T-maze,-0.12,MacWilliam2018,,adult,,,-2.0,True
+16,geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",0.01,V/V,water + Triton X-100,DMel,both,4.5,24.0,Dual-port,0.3,Knaden2012,,adult,,,-2.0,True
+45,isopentyl acetate,31276.0,3-methylbutyl acetate,0.01,V/V,Paraffin oil,DMel,,,0.0,T-maze,-0.59,Störtkuhl1999,,adult,,,-2.0,False
+46,isopentyl acetate,31276.0,3-methylbutyl acetate,0.01,V/V,Paraffin oil,DMel,,6.0,0.0,T-maze,-0.29,Devaud2001,Paraffin oil pre-exposed data added,adult,,,-2.0,False
+47,isopentyl acetate,31276.0,3-methylbutyl acetate,0.01,V/V,Paraffin oil,DMel,,1.0,0.0,T-maze,-0.16,Devaud2003,,adult,,,-2.0,False
+48,isopentyl acetate,31276.0,3-methylbutyl acetate,0.01,V/V,Paraffin oil,DMel,,6.0,0.0,T-maze,-0.29,Devaud2003,,adult,,,-2.0,False
+49,isopentyl acetate,31276.0,3-methylbutyl acetate,0.01,V/V,Paraffin oil,DMel,,12.0,0.0,T-maze,-0.21,Devaud2003,,adult,,,-2.0,False
+50,isopentyl acetate,31276.0,3-methylbutyl acetate,0.01,V/V,water + Triton X-100,DMel,both,4.5,24.0,Dual-port,-0.13,Knaden2012,,adult,,,-2.0,True
+51,butyl acetate,31272.0,butyl acetate,0.01,V/V,water or paraffin oil,DMel,both,5.0,22.5,T-maze,-0.08,MacWilliam2018,,adult,,,-2.0,True
+52,butyl acetate,31272.0,butyl acetate,0.01,V/V,water + Triton X-100,DMel,both,4.5,24.0,Dual-port,-0.14,Knaden2012,,adult,,,-2.0,True
+91,pentyl acetate,12348.0,pentyl acetate,1e-06,V/V,Paraffin oil,DMel,,3.0,18.0,Y-maze,0.19,Ayyub1990,,adult,,,-6.0,True
+92,pentyl acetate,12348.0,pentyl acetate,1e-05,V/V,Paraffin oil,DMel,,3.0,18.0,Y-maze,0.36,Ayyub1990,,adult,,,-5.0,True
+93,pentyl acetate,12348.0,pentyl acetate,0.0001,V/V,Paraffin oil,DMel,,3.0,18.0,Y-maze,0.79,Ayyub1990,,adult,,,-4.0,True
+94,pentyl acetate,12348.0,pentyl acetate,0.1,V/V,,DMel,,5.0,24.0,T-maze,-0.23,Silbering2011,Solvent: water or paraffin oil,adult,,,-1.0,True
+95,pentyl acetate,12348.0,pentyl acetate,0.01,V/V,water + Triton X-100,DMel,both,4.5,24.0,Dual-port,0.12,Knaden2012,,adult,,,-2.0,True
+98,Methyl butyrate,12180.0,methyl butanoate,0.01,V/V,water + Triton X-100,DMel,both,4.5,24.0,Dual-port,0.04,Knaden2012,,adult,,,-2.0,True
+106,3-Octanol,11527.0,octan-3-ol,0.01,V/V,Paraffin oil,DMel,,,0.0,T-maze,-0.69,Freeman1999,,adult,,,-2.0,False
+107,3-Octanol,11527.0,octan-3-ol,0.01,V/V,ethylene glycol,DMel,M,,0.0,T-maze,-0.6,Helfand1989,A response index is computed by subtracting the number of animals on the odorant side from the number on the control side and dividing by the total.,adult,,,-2.0,False
+124,hexyl acetate,8908.0,hexyl acetate,0.01,V/V,water or paraffin oil,DMel,both,5.0,22.5,T-maze,-0.25,MacWilliam2018,,adult,,,-2.0,True
+125,hexyl acetate,8908.0,hexyl acetate,0.01,V/V,water + Triton X-100,DMel,both,4.5,24.0,Dual-port,0.32,Knaden2012,,adult,,,-2.0,True
+133,ethyl acetate,8857.0,ethyl acetate,0.001,V/V,Paraffin oil,DMel,both,4.5,0.0,T-maze,-0.68,Heimbeck2001,,adult,,,-3.0,False
+134,ethyl acetate,8857.0,ethyl acetate,0.01,V/V,Paraffin oil,DMel,both,4.5,0.0,T-maze,-0.81,Heimbeck2001,,adult,,,-2.0,False
+135,ethyl acetate,8857.0,ethyl acetate,1e-06,V/V,Paraffin oil,DMel,,3.0,18.0,Y-maze,0.12,Ayyub1990,,adult,,,-6.0,True
+136,ethyl acetate,8857.0,ethyl acetate,1e-05,V/V,Paraffin oil,DMel,,3.0,18.0,Y-maze,0.29,Ayyub1990,,adult,,,-5.0,True
+137,ethyl acetate,8857.0,ethyl acetate,0.0001,V/V,Paraffin oil,DMel,,3.0,18.0,Y-maze,0.55,Ayyub1990,,adult,,,-4.0,True
+138,ethyl acetate,8857.0,ethyl acetate,0.001,V/V,Paraffin oil,DMel,,3.0,18.0,Y-maze,0.81,Ayyub1990,,adult,,,-3.0,True
+139,ethyl acetate,8857.0,ethyl acetate,0.0001,V/V,mineral oil,DMel,,,0.0,T-maze,0.4,Ai2010,,adult,,,-4.0,False
+140,ethyl acetate,8857.0,ethyl acetate,1e-08,W/V,Paraffin oil,DMel,,5.5,0.0,T-maze,0.0,Stensmyr2003,,adult,,,-8.0,False
+141,ethyl acetate,8857.0,ethyl acetate,1e-07,W/V,Paraffin oil,DMel,,5.5,0.0,T-maze,-0.1,Stensmyr2003,,adult,,,-7.0,False
+142,ethyl acetate,8857.0,ethyl acetate,1e-06,W/V,Paraffin oil,DMel,,5.5,0.0,T-maze,0.19,Stensmyr2003,,adult,,,-6.0,False
+143,ethyl acetate,8857.0,ethyl acetate,1e-05,W/V,Paraffin oil,DMel,,5.5,0.0,T-maze,0.26,Stensmyr2003,,adult,,,-5.0,False
+144,ethyl acetate,8857.0,ethyl acetate,0.0001,W/V,Paraffin oil,DMel,,5.5,0.0,T-maze,0.45,Stensmyr2003,,adult,,,-4.0,False
+145,ethyl acetate,8857.0,ethyl acetate,0.001,W/V,Paraffin oil,DMel,,5.5,0.0,T-maze,0.38,Stensmyr2003,,adult,,,-3.0,False
+146,ethyl acetate,8857.0,ethyl acetate,0.01,W/V,Paraffin oil,DMel,,5.5,0.0,T-maze,0.2,Stensmyr2003,,adult,,,-2.0,False
+147,ethyl acetate,8857.0,ethyl acetate,0.1,W/V,Paraffin oil,DMel,,5.5,0.0,T-maze,-0.1,Stensmyr2003,,adult,,,-1.0,False
+148,ethyl acetate,8857.0,ethyl acetate,0.001,V/V,Propylene glycol,DMel,both,3.0,1.5,T-maze,-0.08,Kutsukake2000,,adult,,,-3.0,True
+149,ethyl acetate,8857.0,ethyl acetate,0.01,V/V,Propylene glycol,DMel,both,3.0,1.5,T-maze,-0.48,Kutsukake2000,,adult,,,-2.0,True
+150,ethyl acetate,8857.0,ethyl acetate,0.05,V/V,Propylene glycol,DMel,both,3.0,1.5,T-maze,-0.56,Kutsukake2000,,adult,,,-1.0,True
+151,ethyl acetate,8857.0,ethyl acetate,0.1,V/V,Propylene glycol,DMel,both,3.0,1.5,T-maze,-0.56,Kutsukake2000,,adult,,,-1.0,True
+152,ethyl acetate,8857.0,ethyl acetate,0.5,V/V,Propylene glycol,DMel,both,3.0,1.5,T-maze,-0.83,Kutsukake2000,,adult,,,-0.0,True
+153,ethyl acetate,8857.0,ethyl acetate,1.0,V/V,Propylene glycol,DMel,both,3.0,1.5,T-maze,-0.61,Kutsukake2000,,adult,,,0.0,True
+154,ethyl acetate,8857.0,ethyl acetate,0.05,V/V,Paraffin oil,DMel,,,0.0,T-maze,-0.47,Freeman1999,,adult,,,-1.0,False
+155,ethyl acetate,8857.0,ethyl acetate,0.01,V/V,Paraffin oil,DMel,,,0.0,T-maze,-0.61,Störtkuhl1999,,adult,,,-2.0,False
+156,ethyl acetate,8857.0,ethyl acetate,0.1,V/V,,DMel,,5.0,24.0,T-maze,-0.4,Silbering2011,Solvent: water or paraffin oil,adult,,,-1.0,True
+157,ethyl acetate,8857.0,ethyl acetate,0.01,V/V,Paraffin oil,DMel,,6.0,0.0,T-maze,-0.23,Devaud2001,Paraffin oil pre-exposed data added,adult,,,-2.0,False
+158,ethyl acetate,8857.0,ethyl acetate,1e-05,V/V,Paraffin oil,DMel,F,3.5,24.0,Y-maze,0.12,Charro1994,,adult,,,-5.0,True
+159,ethyl acetate,8857.0,ethyl acetate,0.0001,V/V,Paraffin oil,DMel,F,3.5,24.0,Y-maze,0.2,Charro1994,,adult,,,-4.0,True
+160,ethyl acetate,8857.0,ethyl acetate,0.001,V/V,Paraffin oil,DMel,F,3.5,24.0,Y-maze,0.18,Charro1994,,adult,,,-3.0,True
+161,ethyl acetate,8857.0,ethyl acetate,0.01,V/V,Paraffin oil,DMel,F,3.5,24.0,Y-maze,-0.34,Charro1994,,adult,,,-2.0,True
+162,ethyl acetate,8857.0,ethyl acetate,0.1,V/V,Paraffin oil,DMel,F,3.5,24.0,Y-maze,-0.96,Charro1994,,adult,,,-1.0,True
+163,ethyl acetate,8857.0,ethyl acetate,0.001,V/V,Paraffin oil,DMel,F,3.5,24.0,Y-maze,0.34,Martin2001,,adult,,,-3.0,True
+164,ethyl acetate,8857.0,ethyl acetate,0.01,V/V,Paraffin oil,DMel,F,3.5,24.0,Y-maze,-0.3,Martin2001,,adult,,,-2.0,True
+165,ethyl acetate,8857.0,ethyl acetate,1e-05,V/V,Paraffin oil,DMel,,,0.0,T-maze,0.06,Stortkuhl2005,,adult,,,-5.0,False
+166,ethyl acetate,8857.0,ethyl acetate,0.0001,V/V,Paraffin oil,DMel,,,0.0,T-maze,0.05,Stortkuhl2005,,adult,,,-4.0,False
+167,ethyl acetate,8857.0,ethyl acetate,0.001,V/V,Paraffin oil,DMel,,,0.0,T-maze,-0.04,Stortkuhl2005,,adult,,,-3.0,False
+168,ethyl acetate,8857.0,ethyl acetate,0.01,V/V,Paraffin oil,DMel,,,0.0,T-maze,-0.1,Stortkuhl2005,,adult,,,-2.0,False
+169,ethyl acetate,8857.0,ethyl acetate,0.1,V/V,Paraffin oil,DMel,,,0.0,T-maze,-0.53,Stortkuhl2005,,adult,,,-1.0,False
+170,ethyl acetate,8857.0,ethyl acetate,0.01,V/V,Paraffin oil,DMel,F,,24.0,Y-maze,-0.06,Alcorta1991,Canton-S fly response added,adult,,,-2.0,True
+171,ethyl acetate,8857.0,ethyl acetate,0.1,V/V,Paraffin oil,DMel,F,,24.0,Y-maze,-0.3,Alcorta1991,Canton-S fly response added,adult,,,-1.0,True
+172,ethyl acetate,8857.0,ethyl acetate,0.01,V/V,Paraffin oil,DMel,M,,24.0,Y-maze,0.0,Alcorta1991,Canton-S fly response added,adult,,,-2.0,True
+173,ethyl acetate,8857.0,ethyl acetate,0.1,V/V,Paraffin oil,DMel,M,,24.0,Y-maze,-0.45,Alcorta1991,Canton-S fly response added,adult,,,-1.0,True
+174,ethyl acetate,8857.0,ethyl acetate,0.0001,V/V,Paraffin oil,DMel,,4.0,0.0,T-maze,0.56,Acebes2001,C-S fly response added,adult,,,-4.0,False
+175,ethyl acetate,8857.0,ethyl acetate,1e-09,V/V,,DMel,,,0.0,Y-maze,0.04,Rodrigues1978,,adult,,,-9.0,False
+176,ethyl acetate,8857.0,ethyl acetate,1e-08,V/V,,DMel,,,0.0,Y-maze,0.13,Rodrigues1978,,adult,,,-8.0,False
+177,ethyl acetate,8857.0,ethyl acetate,1e-07,V/V,,DMel,,,0.0,Y-maze,0.2,Rodrigues1978,,adult,,,-7.0,False
+178,ethyl acetate,8857.0,ethyl acetate,1e-06,V/V,,DMel,,,0.0,Y-maze,0.27,Rodrigues1978,,adult,,,-6.0,False
+179,ethyl acetate,8857.0,ethyl acetate,1e-05,V/V,,DMel,,,0.0,Y-maze,0.62,Rodrigues1978,,adult,,,-5.0,False
+180,ethyl acetate,8857.0,ethyl acetate,0.0001,V/V,,DMel,,,0.0,Y-maze,0.8,Rodrigues1978,,adult,,,-4.0,False
+181,ethyl acetate,8857.0,ethyl acetate,0.001,V/V,,DMel,,,0.0,Y-maze,0.7,Rodrigues1978,,adult,,,-3.0,False
+182,ethyl acetate,8857.0,ethyl acetate,0.01,V/V,,DMel,,,0.0,Y-maze,0.43,Rodrigues1978,,adult,,,-2.0,False
+183,ethyl acetate,8857.0,ethyl acetate,0.1,V/V,,DMel,,,0.0,Y-maze,-0.36,Rodrigues1978,,adult,,,-1.0,False
+184,ethyl acetate,8857.0,ethyl acetate,1.0,V/V,,DMel,,,0.0,Y-maze,-0.7,Rodrigues1978,,adult,,,0.0,False
+185,ethyl acetate,8857.0,ethyl acetate,0.001,V/V,water,DMel,,5.0,36.0,Y-maze,0.52,Dubin1995,,adult,,,-3.0,True
+186,ethyl acetate,8857.0,ethyl acetate,0.01,V/V,water + Triton X-100,DMel,both,4.5,24.0,Dual-port,0.16,Knaden2012,,adult,,,-2.0,True
+197,nonanoic acid,8158.0,nonanoic acid,0.01,V/V,water or paraffin oil,DMel,both,5.0,22.5,T-maze,0.04,MacWilliam2018,,adult,,,-2.0,True
+198,nonanoic acid,8158.0,nonanoic acid,0.01,V/V,water + Triton X-100,DMel,both,4.5,24.0,Dual-port,0.0,Knaden2012,,adult,,,-2.0,True
+199,Hexanol,8103.0,hexan-1-ol,1e-08,W/V,Paraffin oil,DMel,,5.5,0.0,T-maze,-0.02,Stensmyr2003,,adult,,,-8.0,False
+200,Hexanol,8103.0,hexan-1-ol,1e-07,W/V,Paraffin oil,DMel,,5.5,0.0,T-maze,-0.05,Stensmyr2003,,adult,,,-7.0,False
+201,Hexanol,8103.0,hexan-1-ol,1e-06,W/V,Paraffin oil,DMel,,5.5,0.0,T-maze,-0.25,Stensmyr2003,,adult,,,-6.0,False
+202,Hexanol,8103.0,hexan-1-ol,1e-05,W/V,Paraffin oil,DMel,,5.5,0.0,T-maze,-0.37,Stensmyr2003,,adult,,,-5.0,False
+203,Hexanol,8103.0,hexan-1-ol,0.0001,W/V,Paraffin oil,DMel,,5.5,0.0,T-maze,-0.46,Stensmyr2003,,adult,,,-4.0,False
+204,Hexanol,8103.0,hexan-1-ol,0.001,W/V,Paraffin oil,DMel,,5.5,0.0,T-maze,-0.53,Stensmyr2003,,adult,,,-3.0,False
+205,Hexanol,8103.0,hexan-1-ol,0.1,V/V,water,DMel,,1.5,5.5,T-maze,-0.698,Soliman1984,Average of right and left is used to calculate preference index,adult,,,-1.0,True
+206,Hexanol,8103.0,hexan-1-ol,0.25,V/V,water,DMel,,1.5,5.5,T-maze,-0.718,Soliman1984,Average of right and left is used to calculate preference index,adult,,,-1.0,True
+207,Hexanol,8103.0,hexan-1-ol,0.35,V/V,water,DMel,,1.5,5.5,T-maze,-0.834,Soliman1984,Average of right and left is used to calculate preference index,adult,,,-0.0,True
+208,Hexanol,8103.0,hexan-1-ol,0.5,V/V,water,DMel,,1.5,5.5,T-maze,-0.724,Soliman1984,Average of right and left is used to calculate preference index,adult,,,-0.0,True
+209,Hexanol,8103.0,hexan-1-ol,0.01,V/V,water or paraffin oil,DMel,both,5.0,22.5,T-maze,-0.2,MacWilliam2018,,adult,,,-2.0,True
+210,Hexanol,8103.0,hexan-1-ol,0.01,V/V,water or paraffin oil,DMel,both,5.0,22.5,T-maze,0.13,MacWilliam2018,,adult,,,-2.0,True
+211,Hexanol,8103.0,hexan-1-ol,0.01,V/V,water + Triton X-100,DMel,both,4.5,24.0,Dual-port,0.17,Knaden2012,,adult,,,-2.0,True
+212,heptanoic acid,8094.0,heptanoic acid,0.01,V/V,water + Triton X-100,DMel,both,4.5,24.0,Dual-port,0.11,Knaden2012,,adult,,,-2.0,True
+223,propyl acetate,7997.0,propyl acetate,0.01,V/V,water + Triton X-100,DMel,both,4.5,24.0,Dual-port,0.23,Knaden2012,,adult,,,-2.0,True
+234,methyl hexanoate,7824.0,methyl hexanoate,1e-08,V/V,water with 0.2% Triton-X100,DMel,both,,8.0,Dual-port,0.08,Dekker2006,"Attraction index (T 2 C)/(T + C + NR - D), in  which T is the number of flies in the treatment, C number in the control, NR number remaining in the arena, and D the number of dead flies in the arena) reported",adult,,,-8.0,True
+235,methyl hexanoate,7824.0,methyl hexanoate,1e-07,V/V,water with 0.2% Triton-X100,DMel,both,,8.0,Dual-port,0.51,Dekker2006,"Attraction index (T 2 C)/(T + C + NR - D), in  which T is the number of flies in the treatment, C number in the control, NR number remaining in the arena, and D the number of dead flies in the arena) reported",adult,,,-7.0,True
+236,methyl hexanoate,7824.0,methyl hexanoate,1e-06,V/V,water with 0.2% Triton-X100,DMel,both,,8.0,Dual-port,0.48,Dekker2006,"Attraction index (T 2 C)/(T + C + NR - D), in  which T is the number of flies in the treatment, C number in the control, NR number remaining in the arena, and D the number of dead flies in the arena) reported",adult,,,-6.0,True
+237,methyl hexanoate,7824.0,methyl hexanoate,1e-05,V/V,water with 0.2% Triton-X100,DMel,both,,8.0,Dual-port,0.67,Dekker2006,"Attraction index (T 2 C)/(T + C + NR - D), in  which T is the number of flies in the treatment, C number in the control, NR number remaining in the arena, and D the number of dead flies in the arena) reported",adult,,,-5.0,True
+238,methyl hexanoate,7824.0,methyl hexanoate,0.0001,V/V,water with 0.2% Triton-X100,DMel,both,,8.0,Dual-port,0.46,Dekker2006,"Attraction index (T 2 C)/(T + C + NR - D), in  which T is the number of flies in the treatment, C number in the control, NR number remaining in the arena, and D the number of dead flies in the arena) reported",adult,,,-4.0,True
+239,methyl hexanoate,7824.0,methyl hexanoate,0.001,V/V,water with 0.2% Triton-X100,DMel,both,,8.0,Dual-port,0.5,Dekker2006,"Attraction index (T 2 C)/(T + C + NR - D), in  which T is the number of flies in the treatment, C number in the control, NR number remaining in the arena, and D the number of dead flies in the arena) reported",adult,,,-3.0,True
+240,methyl hexanoate,7824.0,methyl hexanoate,0.01,V/V,water with 0.2% Triton-X100,DMel,both,,8.0,Dual-port,0.22,Dekker2006,"Attraction index (T 2 C)/(T + C + NR - D), in  which T is the number of flies in the treatment, C number in the control, NR number remaining in the arena, and D the number of dead flies in the arena) reported",adult,,,-2.0,True
+241,methyl hexanoate,7824.0,methyl hexanoate,0.1,V/V,water with 0.2% Triton-X100,DMel,both,,8.0,Dual-port,0.06,Dekker2006,"Attraction index (T 2 C)/(T + C + NR - D), in  which T is the number of flies in the treatment, C number in the control, NR number remaining in the arena, and D the number of dead flies in the arena) reported",adult,,,-1.0,True
+242,methyl hexanoate,7824.0,methyl hexanoate,1e-06,V/V,water with 1.0% Triton X,DMel,,,8.0,Dual-port,0.12,Ignell2009,"ResponseIndex = (T - C)/(T + C +  NR - D), where T is the number of flies in test vial, C number in the control vial, NR number of flies remaining in arena, and D number of dead flies in the arena",adult,,,-6.0,True
+243,methyl hexanoate,7824.0,methyl hexanoate,1e-05,V/V,water with 1.0% Triton X,DMel,,,8.0,Dual-port,0.32,Ignell2009,"ResponseIndex = (T - C)/(T + C +  NR - D), where T is the number of flies in test vial, C number in the control vial, NR number of flies remaining in arena, and D number of dead flies in the arena",adult,,,-5.0,True
+244,methyl hexanoate,7824.0,methyl hexanoate,0.0001,V/V,water with 1.0% Triton X,DMel,,,8.0,Dual-port,0.37,Ignell2009,"ResponseIndex = (T - C)/(T + C +  NR - D), where T is the number of flies in test vial, C number in the control vial, NR number of flies remaining in arena, and D number of dead flies in the arena",adult,,,-4.0,True
+245,methyl hexanoate,7824.0,methyl hexanoate,0.001,V/V,water with 1.0% Triton X,DMel,,,8.0,Dual-port,0.37,Ignell2009,"ResponseIndex = (T - C)/(T + C +  NR - D), where T is the number of flies in test vial, C number in the control vial, NR number of flies remaining in arena, and D number of dead flies in the arena",adult,,,-3.0,True
+246,methyl hexanoate,7824.0,methyl hexanoate,0.01,V/V,water with 1.0% Triton X,DMel,,,8.0,Dual-port,-0.01,Ignell2009,"ResponseIndex = (T - C)/(T + C +  NR - D), where T is the number of flies in test vial, C number in the control vial, NR number of flies remaining in arena, and D number of dead flies in the arena",adult,,,-2.0,True
+247,methyl hexanoate,7824.0,methyl hexanoate,0.1,V/V,water with 1.0% Triton X,DMel,,,8.0,Dual-port,-0.46,Ignell2009,"ResponseIndex = (T - C)/(T + C +  NR - D), where T is the number of flies in test vial, C number in the control vial, NR number of flies remaining in arena, and D number of dead flies in the arena",adult,,,-1.0,True
+248,methyl hexanoate,7824.0,methyl hexanoate,0.01,V/V,water + Triton X-100,DMel,both,4.5,24.0,Dual-port,0.24,Knaden2012,,adult,,,-2.0,True
+282,methyl acetate,6584.0,methyl acetate,0.01,V/V,water + Triton X-100,DMel,both,4.5,24.0,Dual-port,0.23,Knaden2012,,adult,,,-2.0,True
+284,Linalool,6549.0,"3,7-dimethylocta-1,6-dien-3-ol",0.01,V/V,water or paraffin oil,DMel,both,5.0,22.5,T-maze,-0.19,MacWilliam2018,,adult,,,-2.0,True
+285,Linalool,6549.0,"3,7-dimethylocta-1,6-dien-3-ol",0.01,V/V,water or paraffin oil,DMel,both,5.0,22.5,T-maze,-0.2,MacWilliam2018,,adult,,,-2.0,True
+286,Linalool,6549.0,"3,7-dimethylocta-1,6-dien-3-ol",0.01,V/V,water + Triton X-100,DMel,both,4.5,24.0,Dual-port,-0.43,Knaden2012,,adult,,,-2.0,True
+289,1-pentanol,6276.0,pentan-1-ol,0.01,V/V,water or paraffin oil,DMel,both,5.0,22.5,T-maze,-0.11,MacWilliam2018,,adult,,,-2.0,True
+290,1-pentanol,6276.0,pentan-1-ol,0.01,V/V,water + Triton X-100,DMel,both,4.5,24.0,Dual-port,0.28,Knaden2012,,adult,,,-2.0,True
+296,methyl salicylate,4133.0,methyl 2-hydroxybenzoate,0.01,V/V,water + Triton X-100,DMel,both,4.5,24.0,Dual-port,0.07,Knaden2012,,adult,,,-2.0,True
+340,Octanol,957.0,octan-1-ol,0.0001,V/V,,DMel,,4.5,0.0,T-maze,-0.81,Suh2004,,adult,,,-4.0,False
+341,Octanol,957.0,octan-1-ol,0.05,V/V,mineral oil,DMel,,9.5,0.0,T-maze,-0.73,Ai2010,,adult,,,-1.0,False
+342,Octanol,957.0,octan-1-ol,0.015,V/V,water,DMel,,1.5,5.5,T-maze,-0.77,Soliman1984,Average of right and left is used to calculate preference index,adult,,,-2.0,True
+343,Octanol,957.0,octan-1-ol,0.025,V/V,water,DMel,,1.5,5.5,T-maze,-0.7,Soliman1984,Average of right and left is used to calculate preference index,adult,,,-2.0,True
+344,Octanol,957.0,octan-1-ol,0.035,V/V,water,DMel,,1.5,5.5,T-maze,-0.6,Soliman1984,Average of right and left is used to calculate preference index,adult,,,-1.0,True
+345,Octanol,957.0,octan-1-ol,0.05,V/V,water,DMel,,1.5,5.5,T-maze,-0.57,Soliman1984,Average of right and left is used to calculate preference index,adult,,,-1.0,True
+346,Octanol,957.0,octan-1-ol,0.1,V/V,water,DMel,,1.5,5.5,T-maze,-0.81,Soliman1984,Average of right and left is used to calculate preference index,adult,,,-1.0,True
+347,Octanol,957.0,octan-1-ol,0.01,V/V,water + Triton X-100,DMel,both,4.5,24.0,Dual-port,-0.27,Knaden2012,,adult,,,-2.0,True
+364,ethanol,702.0,ethanol,0.0025,V/V,water,DMel,F,1.0,24.0,Y-maze,0.0,Fuyama1976,,adult,,,-3.0,True
+365,ethanol,702.0,ethanol,0.005,V/V,water,DMel,F,1.0,24.0,Y-maze,0.18,Fuyama1976,,adult,,,-2.0,True
+366,ethanol,702.0,ethanol,0.01,V/V,water,DMel,F,1.0,24.0,Y-maze,0.2,Fuyama1976,,adult,,,-2.0,True
+367,ethanol,702.0,ethanol,0.02,V/V,water,DMel,F,1.0,24.0,Y-maze,0.4,Fuyama1976,,adult,,,-2.0,True
+368,ethanol,702.0,ethanol,0.04,V/V,water,DMel,F,1.0,24.0,Y-maze,0.72,Fuyama1976,,adult,,,-1.0,True
+369,ethanol,702.0,ethanol,0.08,V/V,water,DMel,F,1.0,24.0,Y-maze,0.71,Fuyama1976,,adult,,,-1.0,True
+370,ethanol,702.0,ethanol,0.16,V/V,water,DMel,F,1.0,24.0,Y-maze,0.79,Fuyama1976,,adult,,,-1.0,True
+371,ethanol,702.0,ethanol,0.32,V/V,water,DMel,F,1.0,24.0,Y-maze,-0.08,Fuyama1976,,adult,,,-0.0,True
+372,ethanol,702.0,ethanol,0.64,V/V,water,DMel,F,1.0,24.0,Y-maze,-0.48,Fuyama1976,,adult,,,-0.0,True
+373,ethanol,702.0,ethanol,0.0025,V/V,water,DMel,M,1.0,24.0,Y-maze,-0.1,Fuyama1976,,adult,,,-3.0,True
+374,ethanol,702.0,ethanol,0.005,V/V,water,DMel,M,1.0,24.0,Y-maze,0.0,Fuyama1976,,adult,,,-2.0,True
+375,ethanol,702.0,ethanol,0.01,V/V,water,DMel,M,1.0,24.0,Y-maze,0.27,Fuyama1976,,adult,,,-2.0,True
+376,ethanol,702.0,ethanol,0.02,V/V,water,DMel,M,1.0,24.0,Y-maze,0.37,Fuyama1976,,adult,,,-2.0,True
+377,ethanol,702.0,ethanol,0.04,V/V,water,DMel,M,1.0,24.0,Y-maze,0.47,Fuyama1976,,adult,,,-1.0,True
+378,ethanol,702.0,ethanol,0.08,V/V,water,DMel,M,1.0,24.0,Y-maze,0.72,Fuyama1976,,adult,,,-1.0,True
+379,ethanol,702.0,ethanol,0.16,V/V,water,DMel,M,1.0,24.0,Y-maze,0.67,Fuyama1976,,adult,,,-1.0,True
+380,ethanol,702.0,ethanol,0.32,V/V,water,DMel,M,1.0,24.0,Y-maze,0.28,Fuyama1976,,adult,,,-0.0,True
+381,ethanol,702.0,ethanol,0.64,V/V,water,DMel,M,1.0,24.0,Y-maze,-0.29,Fuyama1976,,adult,,,-0.0,True
+382,ethanol,702.0,ethanol,0.1,V/V,water,DMel,,1.5,5.5,T-maze,-0.26,Soliman1984,Average of right and left is used to calculate preference index,adult,,,-1.0,True
+383,ethanol,702.0,ethanol,0.25,V/V,water,DMel,,1.5,5.5,T-maze,-0.5,Soliman1984,Average of right and left is used to calculate preference index,adult,,,-1.0,True
+384,ethanol,702.0,ethanol,0.35,V/V,water,DMel,,1.5,5.5,T-maze,-0.43,Soliman1984,Average of right and left is used to calculate preference index,adult,,,-0.0,True
+385,ethanol,702.0,ethanol,0.5,V/V,water,DMel,,1.5,5.5,T-maze,-0.6,Soliman1984,Average of right and left is used to calculate preference index,adult,,,-0.0,True
+386,ethanol,702.0,ethanol,0.01,V/V,water + Triton X-100,DMel,both,4.5,24.0,Dual-port,0.0,Knaden2012,,adult,,,-2.0,True
+389,"2,3-butanedione",650.0,"butane-2,3-dione",0.01,V/V,mineral oil,DMel,,,0.0,T-maze,-0.046,Ai2010,,adult,,,-2.0,False
+390,"2,3-butanedione",650.0,"butane-2,3-dione",0.1,V/V,,DMel,,5.0,24.0,T-maze,-0.23,Silbering2011,Solvent: water or paraffin oil,adult,,,-1.0,True
+391,"2,3-butanedione",650.0,"butane-2,3-dione",0.01,V/V,water + Triton X-100,DMel,both,4.5,24.0,Dual-port,0.6,Knaden2012,,adult,,,-2.0,True
+419,octanoic acid,379.0,octanoic acid,0.01,V/V,water or paraffin oil,DMel,both,5.0,22.5,T-maze,-0.2,MacWilliam2018,,adult,,,-2.0,True
+420,octanoic acid,379.0,octanoic acid,0.01,V/V,water + Triton X-100,DMel,both,4.5,24.0,Dual-port,0.19,Knaden2012,,adult,,,-2.0,True
+421,2-methylphenol,335.0,2-methylphenol,0.01,V/V,water + Triton X-100,DMel,both,4.5,24.0,Dual-port,-0.44,Knaden2012,,adult,,,-2.0,True
+432,1-butanol,263.0,butan-1-ol,1e-06,V/V,Paraffin oil,DMel,,3.0,18.0,Y-maze,0.1,Ayyub1990,,adult,,,-6.0,True
+433,1-butanol,263.0,butan-1-ol,1e-05,V/V,Paraffin oil,DMel,,3.0,18.0,Y-maze,0.3,Ayyub1990,,adult,,,-5.0,True
+434,1-butanol,263.0,butan-1-ol,0.0001,V/V,Paraffin oil,DMel,,3.0,18.0,Y-maze,0.35,Ayyub1990,,adult,,,-4.0,True
+435,1-butanol,263.0,butan-1-ol,0.001,V/V,Paraffin oil,DMel,,3.0,18.0,Y-maze,0.3,Ayyub1990,,adult,,,-3.0,True
+436,1-butanol,263.0,butan-1-ol,0.01,V/V,Paraffin oil,DMel,,,0.0,T-maze,-0.85,Störtkuhl1999,,adult,,,-2.0,False
+437,1-butanol,263.0,butan-1-ol,0.001,V/V,Paraffin oil,DMel,,6.0,0.0,T-maze,-0.2,Devaud2001,Paraffin oil pre-exposed data added,adult,,,-3.0,False
+438,1-butanol,263.0,butan-1-ol,0.015,V/V,water,DMel,,1.5,5.5,T-maze,-0.65,Soliman1984,Average of right and left is used to calculate preference index,adult,,,-2.0,True
+439,1-butanol,263.0,butan-1-ol,0.025,V/V,water,DMel,,1.5,5.5,T-maze,-0.8,Soliman1984,Average of right and left is used to calculate preference index,adult,,,-2.0,True
+440,1-butanol,263.0,butan-1-ol,0.035,V/V,water,DMel,,1.5,5.5,T-maze,-0.96,Soliman1984,Average of right and left is used to calculate preference index,adult,,,-1.0,True
+441,1-butanol,263.0,butan-1-ol,0.05,V/V,water,DMel,,1.5,5.5,T-maze,-0.93,Soliman1984,Average of right and left is used to calculate preference index,adult,,,-1.0,True
+442,1-butanol,263.0,butan-1-ol,0.1,V/V,water,DMel,,1.5,5.5,T-maze,-0.88,Soliman1984,Average of right and left is used to calculate preference index,adult,,,-1.0,True
+443,1-butanol,263.0,butan-1-ol,0.01,V/V,water or paraffin oil,DMel,both,5.0,22.5,T-maze,-0.71,MacWilliam2018,,adult,,,-2.0,True
+444,1-butanol,263.0,butan-1-ol,0.01,V/V,water + Triton X-100,DMel,both,4.5,24.0,Dual-port,0.35,Knaden2012,,adult,,,-2.0,True
+451,Benzaldehyde,240.0,benzaldehyde,1e-05,V/V,Paraffin oil,DMel,,3.0,0.0,Y-maze,-0.18,Ayyub1990,,adult,,,-5.0,False
+452,Benzaldehyde,240.0,benzaldehyde,0.0001,V/V,Paraffin oil,DMel,,3.0,0.0,Y-maze,-0.33,Ayyub1990,,adult,,,-4.0,False
+453,Benzaldehyde,240.0,benzaldehyde,0.001,V/V,Paraffin oil,DMel,,3.0,0.0,Y-maze,-0.89,Ayyub1990,,adult,,,-3.0,False
+454,Benzaldehyde,240.0,benzaldehyde,1e-05,V/V,,DMel,,,4.0,T-maze,0.0,Stensmyr2012,stimulus preparation done as Stokl et al. (2010).,adult,,,-5.0,True
+455,Benzaldehyde,240.0,benzaldehyde,0.0001,V/V,,DMel,,,4.0,T-maze,-0.01,Stensmyr2012,stimulus preparation done as Stokl et al. (2010).,adult,,,-4.0,True
+456,Benzaldehyde,240.0,benzaldehyde,0.001,V/V,,DMel,,,4.0,T-maze,-0.17,Stensmyr2012,stimulus preparation done as Stokl et al. (2010).,adult,,,-3.0,True
+457,Benzaldehyde,240.0,benzaldehyde,0.01,V/V,,DMel,,,4.0,T-maze,-0.42,Stensmyr2012,stimulus preparation done as Stokl et al. (2010).,adult,,,-2.0,True
+458,Benzaldehyde,240.0,benzaldehyde,0.001,V/V,Propylene glycol,DMel,both,3.0,1.5,T-maze,-0.08,Kutsukake2000,,adult,,,-3.0,True
+459,Benzaldehyde,240.0,benzaldehyde,0.01,V/V,Propylene glycol,DMel,both,3.0,1.5,T-maze,-0.59,Kutsukake2000,,adult,,,-2.0,True
+460,Benzaldehyde,240.0,benzaldehyde,0.1,V/V,Propylene glycol,DMel,both,3.0,1.5,T-maze,-0.87,Kutsukake2000,,adult,,,-1.0,True
+461,Benzaldehyde,240.0,benzaldehyde,0.01,V/V,Paraffin oil,DMel,,,0.0,T-maze,-0.93,Störtkuhl1999,,adult,,,-2.0,False
+462,Benzaldehyde,240.0,benzaldehyde,0.001,V/V,Paraffin oil,DMel,,6.0,0.0,T-maze,-0.28,Devaud2001,Paraffin oil pre-exposed data added,adult,,,-3.0,False
+463,Benzaldehyde,240.0,benzaldehyde,1e-05,V/V,Paraffin oil,DMel,,6.0,0.0,T-maze,0.02,Devaud2001,Paraffin oil pre-exposed data added,adult,,,-5.0,False
+464,Benzaldehyde,240.0,benzaldehyde,0.0001,V/V,Paraffin oil,DMel,,6.0,0.0,T-maze,0.09,Devaud2001,Paraffin oil pre-exposed data added,adult,,,-4.0,False
+465,Benzaldehyde,240.0,benzaldehyde,0.01,V/V,Paraffin oil,DMel,,6.0,0.0,T-maze,-0.38,Devaud2001,Paraffin oil pre-exposed data added,adult,,,-2.0,False
+466,Benzaldehyde,240.0,benzaldehyde,0.1,V/V,Paraffin oil,DMel,,6.0,0.0,T-maze,-0.78,Devaud2001,Paraffin oil pre-exposed data added,adult,,,-1.0,False
+467,Benzaldehyde,240.0,benzaldehyde,0.004,V/V,water,DMel,F,5.5,0.0,Y-maze,-0.87,Schlief2007,,adult,,,-2.0,False
+468,Benzaldehyde,240.0,benzaldehyde,0.001,V/V,Paraffin oil,DMel,,1.0,0.0,T-maze,-0.42,Devaud2003,,adult,,,-3.0,False
+469,Benzaldehyde,240.0,benzaldehyde,0.001,V/V,Paraffin oil,DMel,,6.0,0.0,T-maze,-0.3,Devaud2003,,adult,,,-3.0,False
+470,Benzaldehyde,240.0,benzaldehyde,0.001,V/V,Paraffin oil,DMel,,12.0,0.0,T-maze,-0.24,Devaud2003,,adult,,,-3.0,False
+471,Benzaldehyde,240.0,benzaldehyde,1e-05,V/V,Paraffin oil,DMel,F,3.5,24.0,Y-maze,0.04,Charro1994,,adult,,,-5.0,True
+472,Benzaldehyde,240.0,benzaldehyde,0.0001,V/V,Paraffin oil,DMel,F,3.5,24.0,Y-maze,0.16,Charro1994,,adult,,,-4.0,True
+473,Benzaldehyde,240.0,benzaldehyde,0.001,V/V,Paraffin oil,DMel,F,3.5,24.0,Y-maze,-0.1,Charro1994,,adult,,,-3.0,True
+474,Benzaldehyde,240.0,benzaldehyde,0.01,V/V,Paraffin oil,DMel,F,3.5,24.0,Y-maze,-0.94,Charro1994,,adult,,,-2.0,True
+475,Benzaldehyde,240.0,benzaldehyde,0.0001,V/V,Paraffin oil,DMel,F,3.5,24.0,Y-maze,0.14,Martin2001,,adult,,,-4.0,True
+476,Benzaldehyde,240.0,benzaldehyde,0.001,V/V,Paraffin oil,DMel,F,3.5,24.0,Y-maze,-0.34,Martin2001,,adult,,,-3.0,True
+477,Benzaldehyde,240.0,benzaldehyde,0.001,V/V,Paraffin oil,DMel,,,0.0,T-maze,-0.36,Stortkuhl2005,,adult,,,-3.0,False
+478,Benzaldehyde,240.0,benzaldehyde,0.01,V/V,Paraffin oil,DMel,,,0.0,T-maze,-0.45,Stortkuhl2005,,adult,,,-2.0,False
+479,Benzaldehyde,240.0,benzaldehyde,0.0001,V/V,DMSO,DMel,,3.0,24.0,T-maze,-0.02,Kwon2010,DART assay data added,adult,,,-4.0,True
+480,Benzaldehyde,240.0,benzaldehyde,0.001,V/V,DMSO,DMel,,3.0,24.0,T-maze,-0.63,Kwon2010,DART assay data added,adult,,,-3.0,True
+481,Benzaldehyde,240.0,benzaldehyde,0.01,V/V,DMSO,DMel,,3.0,24.0,T-maze,-0.97,Kwon2010,DART assay data added,adult,,,-2.0,True
+482,Benzaldehyde,240.0,benzaldehyde,0.1,V/V,DMSO,DMel,,3.0,24.0,T-maze,-0.96,Kwon2010,DART assay data added,adult,,,-1.0,True
+483,Benzaldehyde,240.0,benzaldehyde,0.001,V/V,water,DMel,M,,0.0,T-maze,-0.79,Helfand1989,PI = O - C/ T,adult,,,-3.0,False
+484,Benzaldehyde,240.0,benzaldehyde,1e-09,V/V,,DMel,,,0.0,Y-maze,0.0,Rodrigues1978,,adult,,,-9.0,False
+485,Benzaldehyde,240.0,benzaldehyde,1e-08,V/V,,DMel,,,0.0,Y-maze,-0.09,Rodrigues1978,,adult,,,-8.0,False
+486,Benzaldehyde,240.0,benzaldehyde,1e-07,V/V,,DMel,,,0.0,Y-maze,-0.15,Rodrigues1978,,adult,,,-7.0,False
+487,Benzaldehyde,240.0,benzaldehyde,1e-06,V/V,,DMel,,,0.0,Y-maze,-0.2,Rodrigues1978,,adult,,,-6.0,False
+488,Benzaldehyde,240.0,benzaldehyde,1e-05,V/V,,DMel,,,0.0,Y-maze,-0.18,Rodrigues1978,,adult,,,-5.0,False
+489,Benzaldehyde,240.0,benzaldehyde,0.0001,V/V,,DMel,,,0.0,Y-maze,-0.38,Rodrigues1978,,adult,,,-4.0,False
+490,Benzaldehyde,240.0,benzaldehyde,0.001,V/V,,DMel,,,0.0,Y-maze,-0.78,Rodrigues1978,,adult,,,-3.0,False
+491,Benzaldehyde,240.0,benzaldehyde,0.01,V/V,,DMel,,,0.0,Y-maze,-0.9,Rodrigues1978,,adult,,,-2.0,False
+492,Benzaldehyde,240.0,benzaldehyde,0.1,V/V,,DMel,,,0.0,Y-maze,-0.97,Rodrigues1978,,adult,,,-1.0,False
+493,Benzaldehyde,240.0,benzaldehyde,1.0,V/V,,DMel,,,0.0,Y-maze,-0.98,Rodrigues1978,,adult,,,0.0,False
+494,Benzaldehyde,240.0,benzaldehyde,0.01,V/V,water or paraffin oil,DMel,both,5.0,22.5,T-maze,-0.78,MacWilliam2018,,adult,,,-2.0,True
+495,Benzaldehyde,240.0,benzaldehyde,0.01,V/V,water or paraffin oil,DMel,both,5.0,22.5,T-maze,-0.8,MacWilliam2018,,adult,,,-2.0,True
+496,Benzaldehyde,240.0,benzaldehyde,0.01,V/V,water + Triton X-100,DMel,both,4.5,24.0,Dual-port,-0.54,Knaden2012,,adult,,,-2.0,True
+0,Benzaldehyde,240.0,benzaldehyde,0.0001,V/V,water,,,,0.0,,0.2721202,Vogt2021,,larva,3.5d,S1A,-4.0,False
+1,Benzaldehyde,240.0,benzaldehyde,0.01,V/V,paraffin,,,,0.0,,-0.203,Kreher2008,,larva,third instar,Fig2B,-2.0,False
+2,butanol,263.0,butan-1-ol,,Dry,,,,,1.0,,0.4045,Boyle2005,,larva,first instar,Table2,0.0,True
+4,2-methylphenol,335.0,2-methylphenol,0.01,V/V,paraffin,,,,0.0,,-0.28698,Kreher2008,,larva,third instar,Fig2B,-2.0,False
+5,octanoic acid,379.0,octanoic acid,,Dry,,,,,1.0,,0.3261,Boyle2005,,larva,first instar,Table2,0.0,True
+6,"2,3-butanedione",650.0,"butane-2,3-dione",0.01,V/V,paraffin,,,,0.0,,0.602999,Kreher2008,,larva,third instar,Fig2B,-2.0,False
+7,ethanol,702.0,ethanol,0.01,V/V,water,,,,0.0,,0.099853157,Schumann2021,,larva,36-96h,Fig1B,-2.0,False
+8,ethanol,702.0,ethanol,0.02,V/V,water,,,,0.0,,0.135095448,Schumann2021,,larva,36-96h,Fig1B,-2.0,False
+9,ethanol,702.0,ethanol,0.04,V/V,water,,,,0.0,,0.484581498,Schumann2021,,larva,36-96h,Fig1B,-1.0,False
+10,ethanol,702.0,ethanol,0.08,V/V,water,,,,0.0,,0.618208517,Schumann2021,,larva,36-96h,Fig1B,-1.0,False
+11,ethanol,702.0,ethanol,0.1,V/V,water,,,,0.0,,0.600587372,Schumann2021,,larva,36-96h,Fig1B,-1.0,False
+12,ethanol,702.0,ethanol,0.2,V/V,water,,,,0.0,,0.534508076,Schumann2021,,larva,36-96h,Fig1B,-1.0,False
+13,ethanol,702.0,ethanol,0.3,V/V,water,,,,0.0,,0.251101322,Schumann2021,,larva,36-96h,Fig1B,-1.0,False
+14,ethanol,702.0,ethanol,0.5,V/V,water,,,,0.0,,0.083700441,Schumann2021,,larva,36-96h,Fig1B,-0.0,False
+15,ethanol,702.0,ethanol,0.08,V/V,water,,,,0.0,,0.57,Schumann2021,,larva,36h,Table1,-1.0,False
+16,ethanol,702.0,ethanol,0.08,V/V,water,,,,0.0,,0.33,Schumann2021,,larva,48h,Table1,-1.0,False
+17,ethanol,702.0,ethanol,0.08,V/V,water,,,,0.0,,0.77,Schumann2021,,larva,60h,Table1,-1.0,False
+18,ethanol,702.0,ethanol,0.08,V/V,water,,,,0.0,,0.53,Schumann2021,,larva,72h,Table1,-1.0,False
+19,ethanol,702.0,ethanol,0.08,V/V,water,,,,0.0,,0.65,Schumann2021,,larva,84h,Table1,-1.0,False
+20,ethanol,702.0,ethanol,0.08,V/V,water,,,,0.0,,0.47,Schumann2021,,larva,96h,Table1,-1.0,False
+21,ethanol,702.0,ethanol,0.08,V/V,water,,,,0.0,,0.43,Schumann2021,,larva,108h,Table1,-1.0,False
+22,ethanol,702.0,ethanol,0.08,V/V,water,,,,0.0,,0.35,Schumann2021,,larva,120h,Table1,-1.0,False
+39,octanol,957.0,octan-1-ol,,Dry,,,,,1.0,,0.0314,Boyle2005,,larva,first instar,Table2,0.0,True
+40,1-octanol,957.0,octan-1-ol,,Dry,,,,,0.0,plate choice assay,0.437296,Saumweber2011,"PI is measured based on a specific side. Hence, -ve PI value reported represents attraction. Modified it to fit our metric",larva,third instar,Fig2A,0.0,False
+41,1-octanol,957.0,octan-1-ol,,Dry,,,,,0.0,plate choice assay,0.402886,Saumweber2011,"PI is measured based on a specific side. Hence, -ve PI value reported represents attraction. Modified it to fit our metric",larva,third instar,Fig5A,0.0,False
+45,Methyl salicylate,4133.0,methyl 2-hydroxybenzoate,0.0001,V/V,water,,,,0.0,,0.085141903,Vogt2021,,larva,3.5d,S1A,-4.0,False
+46,Methyl salicylate,4133.0,methyl 2-hydroxybenzoate,0.01,V/V,paraffin,,,,0.0,,-0.21609,Kreher2008,,larva,third instar,Fig2B,-2.0,False
+47,pentanol,6276.0,pentan-1-ol,,Dry,,,,,1.0,,0.3861,Boyle2005,,larva,first instar,Table2,0.0,True
+48,1-Pentanol,6276.0,pentan-1-ol,0.0001,V/V,water,,,,0.0,,0.01836394,Vogt2021,,larva,3.5d,S1A,-4.0,False
+49,linalool,6549.0,"3,7-dimethylocta-1,6-dien-3-ol",,Dry,,,,,0.0,plate choice assay,0.050767,Saumweber2011,"PI is measured based on a specific side. Hence, -ve PI value reported represents attraction. Modified it to fit our metric",larva,third instar,Fig4A,0.0,False
+50,Linalool,6549.0,"3,7-dimethylocta-1,6-dien-3-ol",0.0001,V/V,water,,,,0.0,,-0.035058431,Vogt2021,,larva,3.5d,S1A,-4.0,False
+51,methyl acetate,6584.0,methyl acetate,,Dry,,,,,1.0,,0.5027,Boyle2005,,larva,first instar,Table1,0.0,True
+52,Methyl hexanoate,7824.0,methyl hexanoate,0.0001,V/V,water,,,,0.0,,0.010016694,Vogt2021,,larva,3.5d,S1A,-4.0,False
+53,propyl acetate,7997.0,propyl acetate,,Dry,,,,,1.0,,0.2261,Boyle2005,,larva,first instar,Table1,0.0,True
+55,heptanoic acid,8094.0,heptanoic acid,,Dry,,,,,1.0,,0.3658,Boyle2005,,larva,first instar,Table2,0.0,True
+56,hexanol,8103.0,hexan-1-ol,,Dry,,,,,1.0,,0.4121,Boyle2005,,larva,first instar,Table2,0.0,True
+59,nonanoic acid,8158.0,nonanoic acid,,Dry,,,,,1.0,,0.1201,Boyle2005,,larva,first instar,Table2,0.0,True
+65,ethyl acetate,8857.0,ethyl acetate,,Dry,,,,,1.0,,0.7878,Boyle2005,,larva,first instar,Table1,0.0,True
+70,Ethyl acetate,8857.0,ethyl acetate,0.0001,V/V,water,,,,0.0,,0.717863105,Vogt2021,,larva,3.5d,S1A,-4.0,False
+71,Ethyl acetate,8857.0,ethyl acetate,1e-06,V/V,water,,,,0.0,,0.224607961,Vogt2021,,larva,3.5d,S1C,-6.0,False
+72,Ethyl acetate,8857.0,ethyl acetate,1e-06,V/V,water,,,,6.0,,0.475512666,Vogt2021,,larva,3.5d,S1C,-6.0,True
+73,Ethyl acetate,8857.0,ethyl acetate,0.01,V/V,paraffin,,,,0.0,,0.545194,Kreher2008,,larva,third instar,Fig2B,-2.0,False
+74,Ethyl acetate,8857.0,ethyl acetate,,Dry,,,,,0.0,Aceves-Pi ? na and Quinn (1979),0.662416,Heimbeck1999,,larva,Third instar,Fig2,0.0,False
+75,Ethyl acetate,8857.0,ethyl acetate,0.0001,V/V,paraffin oil,,,,0.0,Monte1989,0.46875,Slankster2020,Concentration based on Mathew2013,larva,96h,Fig1B,-4.0,False
+76,Ethyl acetate,8857.0,ethyl acetate,0.0001,V/V,paraffin oil,,,,2.0,Monte1989,0.5425,Slankster2020,Concentration based on Mathew2013,larva,96h,Fig1B,-4.0,True
+77,hexyl acetate,8908.0,hexyl acetate,,Dry,,,,,1.0,,0.0476,Boyle2005,,larva,first instar,Table1,0.0,True
+78,Hexyl acetate,8908.0,hexyl acetate,0.0001,V/V,water,,,,0.0,,0.080133556,Vogt2021,,larva,3.5d,S1A,-4.0,False
+82,3-octanol,11527.0,octan-3-ol,0.01,V/V,paraffin,,,,0.0,,0.565917,Kreher2008,,larva,third instar,Fig2B,-2.0,False
+83,3-octanol,11527.0,octan-3-ol,,Dry,,,,,0.0,plate choice assay,0.435115,Saumweber2011,,larva,third instar,Fig2A,0.0,False
+84,3-octanol,11527.0,octan-3-ol,,Dry,,,,,0.0,plate choice assay,0.237875,Saumweber2011,"PI is measured based on a specific side. Hence, -ve PI value reported represents attraction. Modified it to fit our metric",larva,third instar,Fig3A,0.0,False
+88,Methyl butyrate,12180.0,methyl butanoate,0.0001,V/V,water,,,,0.0,,0.510851419,Vogt2021,,larva,3.5d,S1A,-4.0,False
+89,pentyl acetate,12348.0,pentyl acetate,,Dry,,,,,1.0,,0.5151,Boyle2005,,larva,first instar,Table1,0.0,True
+92,n-amyl acetate,12348.0,pentyl acetate,,Dry,,,,,0.0,plate choice assay,0.635104,Saumweber2011,,larva,third instar,Fig3A,0.0,False
+93,n-amyl acetate,12348.0,pentyl acetate,,Dry,,,,,0.0,plate choice assay,0.766234,Saumweber2011,,larva,third instar,Fig4A,0.0,False
+94,n-amyl acetate,12348.0,pentyl acetate,,Dry,,,,,0.0,plate choice assay,0.602664,Saumweber2011,,larva,third instar,Fig5A,0.0,False
+98,butyl acetate,31272.0,butyl acetate,,Dry,,,,,1.0,,0.4006,Boyle2005,,larva,first instar,Table1,0.0,True
+99,Butyl acetate,31272.0,butyl acetate,0.0001,V/V,water,,,,0.0,,0.222036728,Vogt2021,,larva,3.5d,S1A,-4.0,False
+100,Isopentyl acetate,31276.0,3-methylbutyl acetate,0.0001,V/V,water,,,,0.0,,0.298831386,Vogt2021,,larva,3.5d,S1A,-4.0,False
+104,geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",0.01,V/V,paraffin,,,,0.0,,-0.40041,Kreher2008,,larva,third instar,Fig2B,-2.0,False
+105,Geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",0.0001,V/V,water,,,,0.0,,-0.265442404,Vogt2021,,larva,3.5d,S1A,-4.0,False
+106,Geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",0.0001,V/V,water,,,,6.0,,0.207761194,Vogt2021,,larva,2d,S2A,-4.0,True
+107,Geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",0.0001,V/V,water,,,,6.0,,0.102686567,Vogt2021,,larva,3d,S2A,-4.0,True
+108,Geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",0.0001,V/V,water,,,,6.0,,0.16119403,Vogt2021,,larva,4d,S2A,-4.0,True
+109,Geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",0.0001,V/V,water,,,,6.0,,0.263880597,Vogt2021,,larva,5d,S2A,-4.0,True
+110,Geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",0.0001,V/V,water,,,,6.0,,0.293731343,Vogt2021,,larva,6d,S2A,-4.0,True
+111,Geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",0.0001,V/V,water,,,,0.0,,-0.15761194,Vogt2021,,larva,2d,S2A,-4.0,False
+112,Geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",0.0001,V/V,water,,,,0.0,,-0.259104478,Vogt2021,,larva,3d,S2A,-4.0,False
+113,Geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",0.0001,V/V,water,,,,0.0,,-0.218507463,Vogt2021,,larva,4d,S2A,-4.0,False
+114,Geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",0.0001,V/V,water,,,,0.0,,-0.194626866,Vogt2021,,larva,5d,S2A,-4.0,False
+115,Geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",0.0001,V/V,water,,,,0.0,,0.197014925,Vogt2021,,larva,6d,S2A,-4.0,False
+116,Geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",1.0,V/V,water,,,,6.0,,0.246293495,Vogt2021,,larva,3.5d,S2B,0.0,True
+117,Geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",0.1,V/V,water,,,,6.0,,0.162783661,Vogt2021,,larva,3.5d,S2B,-1.0,True
+118,Geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",0.01,V/V,water,,,,6.0,,0.115582451,Vogt2021,,larva,3.5d,S2B,-2.0,True
+119,Geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",0.001,V/V,water,,,,6.0,,0.173676248,Vogt2021,,larva,3.5d,S2B,-3.0,True
+120,Geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",0.0001,V/V,water,,,,6.0,,0.172465961,Vogt2021,,larva,3.5d,S2B,-4.0,True
+121,Geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",1e-05,V/V,water,,,,6.0,,0.1301059,Vogt2021,,larva,3.5d,S2B,-5.0,True
+122,Geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",1e-06,V/V,water,,,,6.0,,-0.028441755,Vogt2021,,larva,3.5d,S2B,-6.0,True
+123,Geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",1.0,V/V,water,,,,0.0,,-0.062329803,Vogt2021,,larva,3.5d,S2B,0.0,False
+124,Geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",0.1,V/V,water,,,,0.0,,-0.027231467,Vogt2021,,larva,3.5d,S2B,-1.0,False
+125,Geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",0.01,V/V,water,,,,0.0,,-0.154311649,Vogt2021,,larva,3.5d,S2B,-2.0,False
+126,Geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",0.001,V/V,water,,,,0.0,,-0.088956127,Vogt2021,,larva,3.5d,S2B,-3.0,False
+127,Geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",0.0001,V/V,water,,,,0.0,,-0.266868381,Vogt2021,,larva,3.5d,S2B,-4.0,False
+128,Geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",1e-05,V/V,water,,,,0.0,,-0.160363086,Vogt2021,,larva,3.5d,S2B,-5.0,False
+129,Geranyl acetate,1549026.0,"[(2E)-3,7-dimethylocta-2,6-dienyl] acetate",1e-06,V/V,water,,,,0.0,,0.067170953,Vogt2021,,larva,3.5d,S2B,-6.0,False
